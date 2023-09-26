@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Spencer Hodson</h1>
 <h3 align="center">A Passionate Problem Solver with a Love for Learning and People</h3>
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhkOXlndG1paG02czRoY2d6Y3lqdnM1OWZkdDZlaHUzNWU5eWFwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spencer-s-hodson&label=Profile%20views&color=0e75b6&style=flat" alt="spencer-s-hodson" /> </p>
 
