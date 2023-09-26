@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spencer-s-hodson&show_icons=true&locale=en" alt="spencer-s-hodson" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spencer-s-hodson&" alt="spencer-s-hodson" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spencer-s-hodson&" alt="spencer-s-hodson"  /></p>
