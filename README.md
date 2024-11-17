@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spencer-s-hodson&label=Profile%20views&color=0e75b6&style=flat" alt="spencer-s-hodson" /> </p>
 
-- 🔭 I’m currently working on **a Chess Server**
+- 🔭 I’m currently working on **Bolo Services**
 
-- 🌱 I’m currently learning **Java and React**
+- 🌱 I’m currently learning **#C**
 
 - 📫 How to reach me **spencer.s.hodson@gmail.com**
 
