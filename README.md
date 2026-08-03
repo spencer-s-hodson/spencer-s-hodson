@@ -8,19 +8,6 @@
 - Exploring **tRPC**, agent frameworks, and AI automation
 - Shipping side projects under [spencer-s-hodson](https://github.com/spencer-s-hodson)
 
-## Featured work
-
-
-| Project                                                                  | What it is                           |
-| ------------------------------------------------------------------------ | ------------------------------------ |
-| [ng-mcp-server](https://github.com/spencer-s-hodson/ng-mcp-server)       | MCP server work in TypeScript        |
-| [my-first-agent](https://github.com/spencer-s-hodson/my-first-agent)     | AI agent built with Next.js + Mastra |
-| [startup-ideas-ai](https://github.com/spencer-s-hodson/startup-ideas-ai) | AI-assisted startup ideation         |
-| [commission-desk](https://github.com/spencer-s-hodson/commission-desk)   | Commission tracking app              |
-
-
-More on [GitHub](https://github.com/spencer-s-hodson) · [spencerhodson.com](https://spencerhodson.com)
-
 ## Stack
 
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
