@@ -1,31 +1,45 @@
-<h1 align="center">Hi 👋, I'm Spencer Hodson</h1>
-<h3 align="center">A passionate AI Native Developer</h3>
+# Hi, I'm Spencer Hodson
 
-- 🔭 I’m currently working on [a cooking app](link)
+**Software Engineer @ Northrop Grumman** · building with AI, TypeScript, and product-minded engineering.
 
-- 🌱 I’m currently learning **tRPC, ai automation**
+## Currently
 
-- 👨‍💻 All of my projects are available at [spencerhodson.com](spencerhodson.com)
+- Building AI-powered grocery & cooking tools
+- Exploring **tRPC**, agent frameworks, and AI automation
+- Shipping side projects under [spencer-s-hodson](https://github.com/spencer-s-hodson)
 
-- 📫 How to reach me **spencer.s.hodson@gmail.com**
+## Featured work
 
-- 📄 Know about my experiences [resume](resume)
 
-- ⚡ Fun fact **I'm a triplet!**
+| Project                                                                  | What it is                           |
+| ------------------------------------------------------------------------ | ------------------------------------ |
+| [ng-mcp-server](https://github.com/spencer-s-hodson/ng-mcp-server)       | MCP server work in TypeScript        |
+| [my-first-agent](https://github.com/spencer-s-hodson/my-first-agent)     | AI agent built with Next.js + Mastra |
+| [startup-ideas-ai](https://github.com/spencer-s-hodson/startup-ideas-ai) | AI-assisted startup ideation         |
+| [commission-desk](https://github.com/spencer-s-hodson/commission-desk)   | Commission tracking app              |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/asdfasdfasdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asdfasdfasdf" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/spencer-hodson-3b4305229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="spencer-hodson-3b4305229" height="30" width="40" /></a>
-<a href="https://fb.com/aefasdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aefasdf" height="30" width="40" /></a>
-<a href="https://instagram.com/spencer.hodson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spencer.hodson" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/afgafsgasg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="afgafsgasg" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/spencer-s-hodson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="spencer-s-hodson" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@spencer-s-hodosn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@spencer-s-hodosn" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer"> <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+More on [GitHub](https://github.com/spencer-s-hodson) · [spencerhodson.com](https://spencerhodson.com)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/spencerhodson"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="spencerhodson" /></a></p><br><br>
+## Stack
+
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+
+## Connect
+
+- Email: [spencer.s.hodson@gmail.com](mailto:spencer.s.hodson@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/spencer-hodson-3b4305229)
+- [Instagram](https://instagram.com/spencer.hodson)
+- [LeetCode](https://leetcode.com/spencer-s-hodson)
+
+Fun fact: I'm a triplet.
+
