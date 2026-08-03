@@ -23,10 +23,12 @@
 
 ## Connect
 
-- Email: [spencer.s.hodson@gmail.com](mailto:spencer.s.hodson@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/spencer-hodson-3b4305229)
-- [Instagram](https://instagram.com/spencer.hodson)
-- [LeetCode](https://leetcode.com/spencer-s-hodson)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spencer-s-hodson)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spencer-hodson-3b4305229)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/spencer.hodson)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/spencer-s-hodson)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spencer.s.hodson@gmail.com)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://spencerhodson.com)
 
 Fun fact: I'm a triplet.
 
