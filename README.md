@@ -1,5 +1,4 @@
-# Hi, I'm Spencer Hodson
-
+# Hi, I'm Spencer Hodson ⛳
 **Software Engineer @ Northrop Grumman** · building with AI, TypeScript, and product-minded engineering. Check out my [personal website](https://spencerhodson.com)
 
 ## Currently
