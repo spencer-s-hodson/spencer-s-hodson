@@ -4,7 +4,7 @@
 
 ## Currently
 
-- Building [!**Commishop**](commishop.spencerhodson.com), a set of tools to win my fantasy basketball league, and be the best league manager
+- Building [Commishop](commishop.spencerhodson.com), a set of tools to win my fantasy basketball league, and be the best league manager
 - Exploring **tRPC**, agent frameworks, and AI automation
 - Shipping side projects under [spencer-s-hodson](https://github.com/spencer-s-hodson)
 
