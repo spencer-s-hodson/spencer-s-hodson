@@ -4,7 +4,7 @@
 
 ## Currently
 
-- Building AI-powered grocery & cooking tools
+- Building tools to win my fantasy basketball league
 - Exploring **tRPC**, agent frameworks, and AI automation
 - Shipping side projects under [spencer-s-hodson](https://github.com/spencer-s-hodson)
 
