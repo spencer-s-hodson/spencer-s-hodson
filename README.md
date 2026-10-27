@@ -7,6 +7,34 @@
 - Exploring **tRPC**, agent frameworks, and AI automation
 - Shipping side projects under [spencer-s-hodson](https://github.com/spencer-s-hodson)
 
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://www.sportsciencenetwork.com">Sport Science Network</a></h3>
+      <p>Full-stack event registration and Stripe payments — processed <strong>$190k+</strong> in 4 months with 0 failures.</p>
+      <p><code>Next.js</code> · <code>TypeScript</code> · <code>Supabase</code> · <code>Stripe</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://commishop.spencerhodson.com">Commishop</a></h3>
+      <p>Fantasy basketball commissioner desk — power rankings, matchups, and league intel.</p>
+      <p><code>Next.js</code> · <code>TypeScript</code> · <code>tRPC</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://spencerhodson.com">Personal Website</a></h3>
+      <p>Portfolio for AI-native systems, agents, MCP, and product-minded engineering.</p>
+      <p><code>Next.js</code> · <code>TypeScript</code> · <code>Tailwind</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/spencer-s-hodson">More on GitHub →</a></h3>
+      <p>Agents, MCP servers, and side projects shipping under spencer-s-hodson.</p>
+    </td>
+  </tr>
+</table>
+
 ## Stack
 
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
@@ -22,14 +50,14 @@
 
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spencer-s-hodson)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spencer-hodson-3b4305229)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/spencer.hodson)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/spencer-s-hodson)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spencer.s.hodson@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/spenztheman)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://spencerhodson.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spencer.s.hodson@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/spencer.hodson)
 
 Fun fact: I'm a triplet.
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/spencerhodson)
+<a href="https://www.buymeacoffee.com/spencerhodson"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="36" /></a>
 
