@@ -3,7 +3,7 @@
 
 ## Currently
 
-- Building [Commishop](https://commishop.spencerhodson.com), a set of tools to win my fantasy basketball league, and be the best league manager
+- Building [Recallmaxx](https://recallmaxx.spencerhodson.com) to help me better ingest what I'm learning when talking with AI and have fun in the process
 - Exploring **tRPC**, agent frameworks, and AI automation
 - Shipping side projects under [spencer-s-hodson](https://github.com/spencer-s-hodson)
 
